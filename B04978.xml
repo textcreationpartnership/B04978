@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Representation by the Sheriff Depute of Ross, Commissioners of the Justiciary and Supply, and of the justices of the peace within the district of Ardmanach. To the committee of His Majesties most honourable Privy Council, to whom the consideration of the petition anent the witches in the parish of Kilernan was remitted.</title>
+            <author>Ross (Scotland). Sheriff Depute.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04978</idno>
+            <idno type="STC">Wing R1098B</idno>
+            <idno type="STC">ESTC R182670</idno>
+            <idno type="EEBO-CITATION">52614885</idno>
+            <idno type="OCLC">ocm 52614885</idno>
+            <idno type="VID">176037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176037)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Representation by the Sheriff Depute of Ross, Commissioners of the Justiciary and Supply, and of the justices of the peace within the district of Ardmanach. To the committee of His Majesties most honourable Privy Council, to whom the consideration of the petition anent the witches in the parish of Kilernan was remitted.</title>
+                  <author>Ross (Scotland). Sheriff Depute.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>after 1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: stained, print show-through with much loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Witchcraft --  Scotland --  17th century --  Early works to 1800.</term>
+               <term>Trials (Witchcraft) --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176037:1" rendition="simple:additions"/>
+            <head>REPRESENTATION BY The Sherriff Depute of <hi>Roſs,</hi> Commiſ<g ref="char:EOLhyphen"/>ſioners of Juſticiary and Supply, and of the <hi>Juſtices</hi> of Peace within the Diſtrict of <hi>Ardmanach.</hi>
+            </head>
+            <head type="sub">TO THE Com<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>e of His MAJESTIES moſt Honourable Privy Council To whom the Conſideration of the Petition anent the Watches in the Pariſh of <hi>Kilernan</hi> was Remitted.</head>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> having ottered ſeveral Execrable <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xpr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, ba<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Popery was the beſt of all Religions, And that the Devil did only Ordain Pro<g ref="char:EOLhyphen"/>teſtant Miniſters, &amp;c.</hi> The Miniſter and Seſſion of Kilernan, Ordained him to ſtand in Sackcloath, and pay a Mulct to the Poor. Whereupon he (in preſence of Reid Caſtle, his Maſter, the Reader, and ſome of the Elders,) De<g ref="char:EOLhyphen"/>clared, That <hi>ſome perſon ſhall ſmart for that dayes work.</hi>
+            </p>
+            <p>Mr. <hi>John Mackencie</hi> the Miniſter atteſted, all then preſent, <hi>That if he ſhould ſuffer, there was reaſon to ſuſpect John Glaſs for it:</hi> And within a ſhort time there<g ref="char:EOLhyphen"/>after, falls into Vehement Burnings, Entream Sweatings, and many other <hi>pret<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>natural Torments,</hi> whereof the Phyſicians could give no Tollerable account.</p>
+            <p>But <hi>Donald Moir,</hi> a perſon under, the common repute of a Warlock, being challenged as the Author, did diſtinctly confeſs, and perſiſt therein till his death, That <hi>John Glaſs imployed him to put the Miniſter out of the way.</hi> In order whereunto <hi>Donald</hi> aſſumes, his Confederates. And <hi>Agnes Deſs</hi> (alwayes, bruited as a Witch,) has acknowledged, That <hi>She her ſelf with Donald Moir, Agnes Urich, Agnes Chiſholm and Others, made an Effigies, &amp;c. And that the Devil in like<g ref="char:EOLhyphen"/>neſs of a Black Man, with cloven feet, and bigg hands, did aſſiſt them in the Ope<g ref="char:EOLhyphen"/>ration!</hi>
+            </p>
+            <p>There was likewiſe found under the Ground, in <hi>Agnes Deſſes</hi> houſe, a Clew made of <hi>Mens hair,</hi> A, diſh bored in the ſide, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lifted, in the bottom, &amp;c. And <hi>Donald Moir</hi> confeſſed, that <hi>John Glaſs promiſed him a free houſe, gave him a peck of Meal in hand;</hi> And thereafter enquired. <hi>if the Turn was done? &amp;c.</hi> And being interrogat, Where the Corps was at the time? Anſwered. That <hi>he knew not, unliſs it were in the cuſtodie of John Glaſs, or Donald Mackwilkie his Father in Law,</hi> a perſon alwayes ſuſpected of Witchcraft.</p>
+            <p>
+               <hi>John Glaſs</hi> on notice of <hi>Donald Moirs</hi> Diſcovery, comes with his Son and Ser<g ref="char:EOLhyphen"/>vant to a Friend of the Miniſter, And, beſides ſeveral unbeſeeming expreſſions, Threatned, that <hi>they would ſhoot him, if he ſhould challeng them as Authors of his deceaſe.</hi> And likewiſe when the Sherriff and Commiſſioners had committed <hi>Donald Moir</hi> to priſon till a Commiſſion from the Council ſhould come up, <hi>he is found ſtrangled;</hi> which could not have been done by himſelf, ſeeing both his hands and feet were tyed, and the Shekels were found knocked off, And
+<pb facs="tcp:176037:2"/>the rope was faſte <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op of the h<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Witneſſes in the priſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with him at the time, heard his laſt word, Viz: <hi>Let me alone in the Dev<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> name, for ye have done me too much miſchief already:</hi> And it can be proven th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>John Glaſs</hi> Sons were <hi>abſent</hi> from the houſe that night, &amp;c. All which are vi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lent preſumptions, that <hi>Donald Moir</hi> has been cut off by <hi>John Glaſs,</hi> for preve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ting a Legal Teſtimony before an Aſſize, when the Commiſſion for Tryal we<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> arrived.</p>
+            <p>There are many other Evidences which were adduced before us, and her<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>upon we ſent inſtructions for obtaining a Commiſſion from his Majeſties Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vie Council, which the Vaccation did obſtruct.</p>
+            <p>But in the mean time <hi>John Glaſs</hi> foreſeeing what <hi>might follow,</hi> at laſt preſen<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a Bill of Advocation to the Lords of Juſticiary, <hi>Craving,</hi> That his Cauſe m<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be Advocate, Not only from the Sherriff, and all other inferiour Judges; B<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> likewiſe from any <hi>Commiſſion of Council that might come to be obtained;</hi> But the A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vocation is <hi>only granted</hi> from the Sherriff, and <hi>other inferiour Judges.</hi>
+            </p>
+            <p>It is now Humbly Repreſented,</p>
+            <p n="1">1<hi>mo.</hi> That a Commiſſion ought to be granted, Becauſe, otherwayes, t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Criminals cannot miſs to eſcape: in reſpect of the <hi>Diſtance</hi> of the place, ſo tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>multitudes of witneſses,</hi> (many of whom <hi>are Old,</hi>) and Aſſizers (who are mo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fit to be of the <hi>Neighbourhead</hi>) cannot come up, Eſpecially, conſidering that thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would amount to a great <hi>Expence:</hi> And many both of the Criminals and Wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſſes, can only ſpeak the <hi>Highland Language,</hi> which will difficult the Tryal <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this place.</p>
+            <p n="2">2<hi>do:</hi> The Advocation can be no ground to hinder the Extenſion of this Com<g ref="char:EOLunhyphen"/>miſſion, even to <hi>John Glaſs,</hi> both in Reſpect, that its not doubted, But the Lords of Juſticiary will <hi>concurr in the Remit:</hi> And becauſe a Commiſſion from the Council is not precluded by the Advocation, ſeeing it only diſcharges, and Advocates from <hi>inferiour Judges.</hi>
+            </p>
+            <p>Hence there needs no Anſwer to the Impertinency of the Reaſons of Advoca<g ref="char:EOLhyphen"/>tion, and many <hi>Calumnies</hi> laid againſt us therein, As if we had not taken the Oaths, &amp;c. But it is known who is the <hi>Father of Lies;</hi> And we had nothing in our View in all the pains and Expenſes that we have been at, But the Glory of GOD, the Safety of our Countrey, and the Exhonoration of our Conſcien<g ref="char:EOLhyphen"/>cies, by a well grounded Zeal againſt thoſe Enemies of Heaven and Earth, who are numerous and diſtinctly known in theſe parts; And the Inha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nts ſince this late Diſcovery, are in a great Con<gap reason="illegible" extent="9 letters">
+                  <desc>〈9 letters〉</desc>
+               </gap>, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bringing theſe Miſcreants to Judgemen<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>Beſides, there was no <hi>proceſs,</hi> and conſequently, there could have been no Ad<g ref="char:EOLhyphen"/>vocation <hi>quoad John Glaſs;</hi> And he is ſo <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> a great Criminal by the com<g ref="char:EOLhyphen"/>mon belief of the Country, That if he ſhould eſcape a Tryal, (which c<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>t miſs, if he be not in the Commiſſion,) They will eſteem <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> to his <hi>Revenge,</hi> and to all the Inſtruments which he can be permi<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r up by the Aſſiſtance of the Devil.</p>
+            <p>
+               <hi>In Reſpect whereof, &amp;c.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
